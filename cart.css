@@ -1,18 +1,22 @@
-#cartDetails, #orderDetails {
+#cartDetails, #orderDetails 
+{
     width: 80%;
     height: 200px;
 }
 
-#checkoutForm input {
+#checkoutForm input 
+{
     margin: 10px 0;
     width: 80%;
 }
 
-#checkoutForm button {
+#checkoutForm button 
+{
     margin-top: 10px;
 }
 
-.container-wrapper {
+.container-wrapper 
+{
     display: flex;
     justify-content: space-between;
     gap: 20px;
@@ -21,6 +25,7 @@
     margin-left: 200px;
 }
 
-.container {
+.container 
+{
     flex: 1;
 }
